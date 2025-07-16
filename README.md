@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=João+Vitor+Otavio&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;I'M+GRADUATED+AT+FATEC;I+WORK+WITH+REACT/NODE+BEING+FULL-STACK;BUT+I+AM+PASSIONATE+ABOUT+FRONTEND+STYLING;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0C898B&width=435&lines=Ol%C3%A1+sou+formado+pela+FATEC;Sou+desenvolvedor+fullstack+com+foco;React-NextJS-NodeJS-NestJS-Jest+)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorOtavio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Joao Vitor github stats" /> 
